@@ -1,0 +1,174 @@
+800
+Kosicky
+801
+Gelnica
+802
+Kosice I
+803
+Kosice II
+804
+Kosice III
+805
+Kosice IV
+806
+Kosice - okolie
+807
+Michalovce
+808
+Roznava
+809
+Sobrance
+810
+Spisska Nova Ves
+811
+Trebisov
+300
+Trenciansky
+301
+Banovce nad Bebravou
+302
+Ilava
+303
+Myjava
+304
+Nove Mesto nad Vahom
+305
+Partizanske
+306
+Povazska Bystrica
+307
+Prievidza
+308
+Puchov
+309
+Trencin
+600
+Banskobystricky
+601
+Banska Bystrica
+602
+Banska Stiavnica
+603
+Brezno
+604
+Detva
+605
+Krupina
+606
+Lucenec
+607
+Poltar
+608
+Revuca
+609
+Rimavska Sobota
+610
+Velky Krtis
+611
+Zvolen
+100
+Bratislavsky
+101
+Bratislava I
+102
+Bratislava II
+103
+Bratislava III
+104
+Bratislava IV
+105
+Bratislava V
+106
+Malacky
+107
+Pezinok
+108
+Senec
+400
+Nitriansky
+401
+Komarno
+402
+Levice
+403
+Nitra
+404
+Nove Zamky
+405
+Sala
+406
+Topolcany
+407
+Zlate Moravce
+712
+Svidnik
+713
+Vranov nad Toplou
+700
+Presovsky
+701
+Bardejov
+702
+Humenne
+703
+Kezmarok
+704
+Levoca
+705
+Medzilaborce
+706
+Poprad
+707
+Presov
+708
+Sabinov
+709
+Snina
+710
+Stara Lubovna
+711
+Stropkov
+200
+Trnavsky
+201
+Dunajska Streda
+202
+Galanta
+203
+Hlohovec
+204
+Piestany
+205
+Senica
+206
+Skalica
+207
+Trnava
+612
+Zarnovica
+613
+Ziar nad Hronom
+500
+Zilinsky
+501
+Bytca
+502
+Cadca
+503
+Dolny Kubin
+504
+Kysucke Nove Mesto
+505
+Liptovsky Mikulas
+506
+Martin
+507
+Namestovo
+508
+Ruzomberok
+509
+Turcianske Teplice
+510
+Tvrdosin
+511
+Zilina

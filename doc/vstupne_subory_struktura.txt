@@ -1,0 +1,110 @@
+Dokumentacia k vstupnym suborom
+----------------------------------------------------------
+----------------------------------------------------------
+
+subor:		kraje_id
+popis:		zoznam vsetkych krajov SR
+
+struktura:	pocet_zaznamov_v_subore
+			id_kraja_1
+			nazov_kraja_1
+			id_kraja_2
+			nazov_kraja_2
+			...
+----------------------------------------------------------
+
+subor:		okresy_id
+popis:		zoznam vsetkych okresov SR
+
+struktura:	pocet_zaznamov_v_subore
+			id_okresu_1
+			nazov_okresu_1
+			id_okresu_2
+			nazov_okresu_2
+			...
+----------------------------------------------------------
+
+subor:		obce_okresy_id
+popis:		zoznam vsetkych obci SR a okresov, do ktorych patria
+
+struktura:	pocet_zaznamov_v_subore
+			id_obce_1
+			nazov_obce_1
+			id_okresu_obce_1
+			id_obce_2
+			nazov_obce_2
+			id_okresu_obce_2
+			...
+----------------------------------------------------------
+
+subor:		obyvatelstvo_raw2
+popis:		zaznamy o poctoch ekonomicky aktivnych obyvatelov pre kazdu obec SR podla veku a pohlavia
+
+struktura:	pocet_zaznamov_v_subore
+			id_obce_1 (alebo id_okresu alebo id_kraja)
+			obec_1_obyvatelstvo_18_rokov_muzi
+			obec_1_obyvatelstvo_18_rokov_zeny
+			obec_1_obyvatelstvo_19_rokov_muzi
+			obec_1_obyvatelstvo_19_rokov_zeny
+			...
+			obec_1_obyvatelstvo_64_rokov_muzi
+			obec_1_obyvatelstvo_64_rokov_zeny
+			obec_1_obyvatelstvo_65_rokov_muzi
+			obec_1_obyvatelstvo_65_rokov_zeny
+			id_obce_2 (alebo id_okresu alebo id_kraja)
+			obec_2_obyvatelstvo_18_rokov_muzi
+			obec_2_obyvatelstvo_18_rokov_zeny
+			obec_2_obyvatelstvo_19_rokov_muzi
+			obec_2_obyvatelstvo_19_rokov_zeny
+			...
+			obec_2_obyvatelstvo_64_rokov_muzi
+			obec_2_obyvatelstvo_64_rokov_zeny
+			obec_2_obyvatelstvo_65_rokov_muzi
+			obec_2_obyvatelstvo_65_rokov_zeny
+			...
+----------------------------------------------------------
+
+
+subor:		vymera_raw
+popis:		zaznamy o vymerach pody vsetkych obci SR
+
+struktura:	pocet_zaznamov_v_subore
+			id_obce_1
+			nazov_obce_1
+			obec_1_vymera_celkova_rok_1996
+			obec_1_vymera_celkova_rok_1997
+			...
+			obec_1_vymera_celkova_rok_2016
+			obec_1_vymera_celkova_rok_2017
+			obec_1_vymera_orna_poda_rok_1996
+			obec_1_vymera_orna_poda_rok_1997
+			...
+			obec_1_vymera_orna_poda_rok_2016
+			obec_1_vymera_orna_poda_rok_2017
+			obec_1_vymera_ovocne_sady_rok_1996
+			obec_1_vymera_ovocne_sady_rok_1997
+			...
+			obec_1_vymera_ovocne_sady_rok_2016
+			obec_1_vymera_ovocne_sady_rok_2017
+			obec_1_vymera_vodna_plocha_rok_1996
+			obec_1_vymera_vodna_plocha_rok_1997
+			...
+			obec_1_vymera_vodna_plocha_rok_2016
+			obec_1_vymera_vodna_plocha_rok_2017
+			obec_1_vymera_lesny_pozemok_rok_1996
+			obec_1_vymera_lesny_pozemok_rok_1997
+			...
+			obec_1_vymera_lesny_pozemok_rok_2016
+			obec_1_vymera_lesny_pozemok_rok_2017
+			obec_1_vymera_zastavane_plochy_rok_1996
+			obec_1_vymera_zastavane_plochy_rok_1997
+			...
+			obec_1_vymera_zastavane_plochy_rok_2016
+			obec_1_vymera_zastavane_plochy_rok_2017
+			id_obce_2
+			nazov_obce_2
+			obec_2_vymera_celkova_rok_1996
+			obec_2_vymera_celkova_rok_1997
+			...
+----------------------------------------------------------
+----------------------------------------------------------
